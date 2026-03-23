@@ -18,8 +18,7 @@
 
 <div align="center">
 
-<img src="![WhatsApp Image 2026-01-02 at 11 21 39 AM](https://github.com/user-attachments/assets/0e47db81-3f95-414f-be1b-8badfdc70909)
-" width="230"
+<img src="profile.jpg" width="230"
 style="
 border-radius:50%;
 border: 4px solid #00c6ff;
