@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Bharath%20H%20U&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-🚀 **Aspiring Software Engineer | MERN Stack Developer**
+🚀 **Aspiring Software Engineer | Full Stack Developer**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+%26+Java+Developer;MERN+Stack+Enthusiast;Building+Real+World+Projects" />
 
@@ -18,7 +18,8 @@
 
 <div align="center">
 
-<img src="profile.jpg" width="230"
+<img src="![profile](https://github.com/user-attachments/assets/84e145e2-a867-4412-b5a7-e1121a64fdfb)
+" width="230"
 style="
 border-radius:50%;
 border: 4px solid #00c6ff;
