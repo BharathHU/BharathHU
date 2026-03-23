@@ -82,11 +82,11 @@ B.E. Information Science & Engineering
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bharath-h-u&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharath-h-u&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 
-<img src="https://streak-stats.demolab.com?user=bharath-h-u&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
 
 </div>
 
