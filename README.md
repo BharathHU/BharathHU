@@ -2,11 +2,11 @@
 
 <div align="center">
 
-🚀 **Aspiring Software Engineer | MERN Stack Developer | Problem Solver**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Bharath%20H%20U&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Python+%26+Java+Developer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+%26+Java+Developer;MERN+Stack+Enthusiast;Building+Real+World+Projects" />
 
-<img src="https://komarev.com/ghpvc/?username=bharath-h-u&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00c6ff&style=flat" />
 
 </div>
 
@@ -14,13 +14,19 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center">
+
+<img src="profile.jpg" width="220" style="border-radius:50%; border:4px solid #00c6ff;" />
+
+</div>
+
+<br>
 
 * 🎓 B.E. Information Science & Engineering (2026)
 * 💻 Skilled in **Python, Java, MERN Stack**
 * 🌐 Strong in **HTML, CSS, JavaScript**
-* 🛠️ Backend + Database Development
-* 🚀 Passionate about building real-world applications
+* 🛠️ Backend Development using **Node.js & Express.js**
+* 🚀 Passionate about building **real-world applications**
 
 ---
 
@@ -40,7 +46,7 @@
 
 📅 Dec 2024 – Jan 2025
 
-* Built a **Spotify Clone using MERN Stack**
+* Built **Spotify Clone using MERN Stack**
 * Implemented **authentication, playlists, streaming**
 * Worked with **React, Node.js, Express.js**
 
@@ -50,31 +56,15 @@
 
 ### 🎯 Domain Expert Discovery
 
-* Developed platform for **expert identification**
-* Implemented **data processing pipeline**
+* Automated **expert identification platform**
+* Built **data processing pipeline**
 
 ---
 
-### 🎵 Spotify Clone
+### 🎵 Music Player (Spotify Clone)
 
 * Full-stack MERN application
-* Features: Authentication, playlists, music streaming
-
----
-
-## 🎓 Education
-
-🎓 **City Engineering College**
-B.E. Information Science & Engineering
-📊 CGPA: 7.9
-
----
-
-## 📜 Certifications
-
-* ✔ MERN Stack Internship — Edunet Foundation
-* ✔ GenAI Data Analytics — Tata Forage
-* 📘 Python Full Stack (Ongoing)
+* Features: **Authentication, playlists, streaming**
 
 ---
 
@@ -82,11 +72,9 @@ B.E. Information Science & Engineering
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
@@ -96,18 +84,9 @@ B.E. Information Science & Engineering
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/bharath-h-u/bharath-h-u/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
 
 </div>
-
----
-
-## 🤝 Interpersonal Skills
-
-* Teamwork & Communication
-* Adaptability & Quick Learning
-* Problem Solving
-* Leadership (Cricket & Kabaddi)
 
 ---
 
@@ -123,6 +102,6 @@ B.E. Information Science & Engineering
 
 <div align="center">
 
-### ⚡ *Always learning, always building*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer"/>
 
 </div>
