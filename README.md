@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Python+%7C+Java+Developer;MERN+Stack+Engineer;Building+Real+World+Projects;Open+to+Opportunities" />
 
-<img src="https://komarev.com/ghpvc/?username=bharathhu&label=Profile%20Views&color=00c6ff&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=BharathHU&label=Profile%20Views&color=00c6ff&style=flat" />
 
 </div>
 
@@ -16,8 +16,8 @@
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/84e145e2-a867-4412-b5a7-e1121a64fdfb" width="200"
-style="border-radius:50%; border:5px solid #00c6ff; box-shadow:0 0 25px #00c6ff,0 0 60px #0072ff;" />
+<!-- ✅ Circular GitHub avatar -->
+<img src="https://github.com/BharathHU.png" width="200" />
 
 </div>
 
@@ -27,12 +27,12 @@ style="border-radius:50%; border:5px solid #00c6ff; box-shadow:0 0 25px #00c6ff,
 
 </div>
 
-* 🎓 B.E. Information Science & Engineering (2026)
-* 📊 CGPA: **7.9**
-* 💻 Python | Java | MERN Stack
-* ⚙ Backend: Node.js, Express.js
-* 🌐 Frontend: HTML, CSS, JavaScript
-* 🚀 Love solving real-world problems
+* 🎓 B.E. Information Science & Engineering (2026)  
+* 📊 CGPA: **7.9**  
+* 💻 Python | Java | MERN Stack  
+* ⚙ Backend: Node.js, Express.js  
+* 🌐 Frontend: HTML, CSS, JavaScript  
+* 🚀 Love solving real-world problems  
 
 ---
 
@@ -92,11 +92,11 @@ Full-stack MERN app with authentication, playlists & streaming.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bharathhu&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=BharathHU&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathhu&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharathHU&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://streak-stats.demolab.com?user=bharathhu&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=BharathHU&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
@@ -106,7 +106,7 @@ Full-stack MERN app with authentication, playlists & streaming.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bharathhu&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BharathHU&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -116,7 +116,7 @@ Full-stack MERN app with authentication, playlists & streaming.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/bharathhu/bharathhu/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/BharathHU/BharathHU/output/github-contribution-grid-snake.svg" />
 
 </div>
 
@@ -126,7 +126,7 @@ Full-stack MERN app with authentication, playlists & streaming.
 
 <div align="center">
 
-<img src="<img src="https://github-profile-trophy.vercel.app/?username=BharathHU&theme=tokyonight&no-frame=true&row=1&column=6" />" />
+<img src="https://github-profile-trophy.vercel.app/?username=BharathHU&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -134,18 +134,18 @@ Full-stack MERN app with authentication, playlists & streaming.
 
 ## 📜 Certifications
 
-* ✔ MERN Stack Internship — Edunet Foundation
-* ✔ GenAI Data Analytics — Tata Forage
-* 📘 Python Full Stack — Dhee Coding Lab
+* ✔ MERN Stack Internship — Edunet Foundation  
+* ✔ GenAI Data Analytics — Tata Forage  
+* 📘 Python Full Stack — Dhee Coding Lab  
 
 ---
 
 ## 🤝 Soft Skills
 
-* 💬 Communication
-* 🤝 Teamwork
-* ⚡ Adaptability
-* 🧠 Decision Making
+* 💬 Communication  
+* 🤝 Teamwork  
+* ⚡ Adaptability  
+* 🧠 Decision Making  
 
 ---
 
@@ -157,8 +157,8 @@ Full-stack MERN app with authentication, playlists & streaming.
 <img src="https://img.shields.io/badge/Email-Contact-00c6ff?style=for-the-badge&logo=gmail">
 </a>
 
-<a href="https://github.com/bharathhu">
-<img src="https://img.shields.io/badge/GitHub-bharathhu-000?style=for-the-badge&logo=github">
+<a href="https://github.com/BharathHU">
+<img src="https://img.shields.io/badge/GitHub-BharathHU-000?style=for-the-badge&logo=github">
 </a>
 
 </div>
