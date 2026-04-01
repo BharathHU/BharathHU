@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=250&section=header&text=Bharath%20H%20U&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Python+%7C+Java+Engineer;MERN+Stack+Developer;Building+Scalable+Web+Apps;Open+to+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Python+%7C+;MERN+Stack+Developer;Building+Scalable+Web+Apps;Open+to+Opportunities" />
 
 </div>
 
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,nodejs,express,react,mongodb,mysql,git,github,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,git,github,vscode&perline=6" />
 
 </div>
 
