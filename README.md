@@ -178,4 +178,3 @@ Full-stack MERN app with authentication, playlists & streaming.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=140&section=footer"/>
 
 </div>
-make profile picture circle shape
