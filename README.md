@@ -1,61 +1,180 @@
-```
-<!-- Header -->
-<h1>👋 Hi, I'm Bharath H U</h1>
-<p class="tagline">🚀 Aspiring Software Engineer | Full Stack Developer</p>
+# 👋 Hi, I'm Bharath H U
 
-<!-- Profile -->
-<div class="profile">
-    <img src="" alt="profile">
-</div>
+<div align="center">
 
-<!-- About -->
-<div class="section">
-    <h2>👨‍💻 About Me</h2>
-    <p>B.E. Information Science & Engineering (2026)</p>
-    <p>Skilled in Python, Java, MERN Stack</p>
-    <p>Frontend: HTML, CSS, JavaScript</p>
-    <p>Backend: Node.js & Express.js</p>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Bharath%20H%20U&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-<!-- Skills -->
-<div class="section skills">
-    <h2>🛠️ Tech Stack</h2>
-    <span>Python</span>
-    <span>Java</span>
-    <span>JavaScript</span>
-    <span>MERN</span>
-    <span>MongoDB</span>
-    <span>MySQL</span>
-    <span>Git</span>
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Python+%7C+Java+Developer;MERN+Stack+Engineer;Building+Real+World+Projects;Open+to+Opportunities" />
 
-<!-- Projects -->
-<div class="section">
-    <h2>🚀 Projects</h2>
-
-    <div class="card">
-        <h3>🎯 Domain Expert Discovery</h3>
-        <p>Expert identification platform using data processing.</p>
-    </div>
-
-    <div class="card">
-        <h3>🎵 Spotify Clone</h3>
-        <p>MERN app with authentication, playlists & streaming.</p>
-    </div>
+<img src="https://komarev.com/ghpvc/?username=bharathhu&label=Profile%20Views&color=00c6ff&style=flat" />
 
 </div>
 
-<!-- Internship -->
-<div class="section">
-    <h2>💼 Internship</h2>
-    <p>MERN Stack Intern — Edunet Foundation</p>
-    <p>Built Spotify Clone with React, Node.js & Express</p>
+---
+
+## 🧑‍💻 About Me
+
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/84e145e2-a867-4412-b5a7-e1121a64fdfb" width="200"
+style="border-radius:50%; border:5px solid #00c6ff; box-shadow:0 0 25px #00c6ff,0 0 60px #0072ff;" />
+
 </div>
 
-<!-- Contact -->
-<div class="section">
-    <h2>📫 Contact</h2>
-    <p>Email: <a href="mailto:bharathhubharath@gmail.com">bharathhubharath@gmail.com</a></p>
-    <p><a href="https://github.com/bharathhu">GitHub</a></p>
+<div align="center">
+
+✨ Passionate Full Stack Developer building scalable web applications ✨
+
 </div>
-```
+
+* 🎓 B.E. Information Science & Engineering (2026)
+* 📊 CGPA: **7.9**
+* 💻 Python | Java | MERN Stack
+* ⚙ Backend: Node.js, Express.js
+* 🌐 Frontend: HTML, CSS, JavaScript
+* 🚀 Love solving real-world problems
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,nodejs,express,react,mongodb,mysql,git,github,vscode" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="300">
+
+<h3 align="center">🎯 Domain Expert Discovery</h3>
+
+<p align="center">
+Automated platform for expert identification using intelligent data pipelines.
+</p>
+
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/Live-Demo-00c6ff?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/Code-GitHub-000?style=for-the-badge&logo=github"></a>
+</p>
+
+</td>
+
+<td width="300">
+
+<h3 align="center">🎵 Spotify Clone</h3>
+
+<p align="center">
+Full-stack MERN app with authentication, playlists & streaming.
+</p>
+
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/Live-Demo-00c6ff?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/Code-GitHub-000?style=for-the-badge&logo=github"></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bharathhu&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathhu&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=bharathhu&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bharathhu&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/bharathhu/bharathhu/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=bharathhu&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+## 📜 Certifications
+
+* ✔ MERN Stack Internship — Edunet Foundation
+* ✔ GenAI Data Analytics — Tata Forage
+* 📘 Python Full Stack — Dhee Coding Lab
+
+---
+
+## 🤝 Soft Skills
+
+* 💬 Communication
+* 🤝 Teamwork
+* ⚡ Adaptability
+* 🧠 Decision Making
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:bharathhubharath@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-00c6ff?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://github.com/bharathhu">
+<img src="https://img.shields.io/badge/GitHub-bharathhu-000?style=for-the-badge&logo=github">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+🔥 *“First, solve the problem. Then, write the code.”* 🔥
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=140&section=footer"/>
+
+</div>
