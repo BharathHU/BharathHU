@@ -126,7 +126,7 @@ Full-stack MERN app with authentication, playlists & streaming.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=bharathhu&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="<img src="https://github-profile-trophy.vercel.app/?username=BharathHU&theme=tokyonight&no-frame=true&row=1&column=6" />" />
 
 </div>
 
