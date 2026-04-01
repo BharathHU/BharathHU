@@ -1,92 +1,181 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
-
-###
-
-<h3 align="center">I'm Bharath H U — Full Stack Developer from India 🇮🇳</h3>
-
-###
+# 👋 Hi, I'm Bharath H U
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,nodejs,express,react,mongodb,mysql,git,github,vscode" height="60" />
-</div>
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Bharath%20H%20U&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-<div align="center">
-  
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Python+%7C+Java+Developer;MERN+Stack+Engineer;Building+Real+World+Projects;Open+to+Opportunities" />
 
-  <a href="mailto:bharathhubharath@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
-  </a>
-
-  <a href="https://github.com/BharathHU">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" height="30"/>
-  </a>
+<img src="https://komarev.com/ghpvc/?username=bharathhu&label=Profile%20Views&color=00c6ff&style=flat" />
 
 </div>
 
-###
+---
+
+## 🧑‍💻 About Me
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=BharathHU&theme=tokyonight&hide_border=true" height="150" />
-  
-  <img src="https://github-profile-trophy.vercel.app?username=BharathHU&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-frame=true" height="150" />
+
+<img src="https://github.com/user-attachments/assets/84e145e2-a867-4412-b5a7-e1121a64fdfb" width="200"
+style="border-radius:50%; border:5px solid #00c6ff; box-shadow:0 0 25px #00c6ff,0 0 60px #0072ff;" />
+
 </div>
 
-###
+<div align="center">
 
-<h3 align="left">🧑‍💻 About Me</h3>
+✨ Passionate Full Stack Developer building scalable web applications ✨
 
-- 🎓 B.E. Information Science & Engineering (2026)  
-- 📊 CGPA: **7.9**  
-- 💻 Skilled in **Python, Java, MERN Stack**  
-- ⚙ Backend: **Node.js, Express.js**  
-- 🌐 Frontend: **HTML, CSS, JavaScript**  
-- 🗄 Databases: **MongoDB, MySQL**  
-- 🚀 Passionate about building real-world applications  
+</div>
 
-###
+* 🎓 B.E. Information Science & Engineering (2026)
+* 📊 CGPA: **7.9**
+* 💻 Python | Java | MERN Stack
+* ⚙ Backend: Node.js, Express.js
+* 🌐 Frontend: HTML, CSS, JavaScript
+* 🚀 Love solving real-world problems
 
-<h3 align="left">🚀 Projects</h3>
+---
 
-- 🎯 **Domain Expert Discovery**  
-  → Automated expert identification platform using data pipelines  
+## 🛠️ Tech Arsenal
 
-- 🎵 **Spotify Clone (MERN Stack)**  
-  → Authentication, playlists & secure music streaming  
+<div align="center">
 
-###
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,nodejs,express,react,mongodb,mysql,git,github,vscode" />
 
-<h3 align="left">💼 Internship</h3>
+</div>
 
-- 💻 **MERN Stack Intern — Edunet Foundation**  
-  → Built full-stack music player with authentication & streaming  
+---
 
-###
+## 🚀 Featured Projects
 
-<h3 align="left">🏆 Certifications</h3>
+<div align="center">
 
-- ✔ MERN Stack Internship — Edunet Foundation  
-- ✔ GenAI Data Analytics — Tata Forage  
-- 📘 Python Full Stack — Dhee Coding Lab  
+<table>
+<tr>
+<td width="300">
 
-###
+<h3 align="center">🎯 Domain Expert Discovery</h3>
 
-<h3 align="left">🤝 Soft Skills</h3>
+<p align="center">
+Automated platform for expert identification using intelligent data pipelines.
+</p>
 
-- 💬 Communication  
-- 🤝 Teamwork  
-- ⚡ Adaptability  
-- 🧠 Decision Making  
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/Live-Demo-00c6ff?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/Code-GitHub-000?style=for-the-badge&logo=github"></a>
+</p>
 
-###
+</td>
 
-<br clear="both">
+<td width="300">
 
-<!-- ✅ Snake Animation -->
-<img src="https://raw.githubusercontent.com/BharathHU/BharathHU/output/github-contribution-grid-snake.svg" />
+<h3 align="center">🎵 Spotify Clone</h3>
 
-###
+<p align="center">
+Full-stack MERN app with authentication, playlists & streaming.
+</p>
+
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/Live-Demo-00c6ff?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/Code-GitHub-000?style=for-the-badge&logo=github"></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bharathhu&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathhu&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=bharathhu&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bharathhu&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/bharathhu/bharathhu/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="<img src="https://github-profile-trophy.vercel.app/?username=BharathHU&theme=tokyonight&no-frame=true&row=1&column=6" />" />
+
+</div>
+
+---
+
+## 📜 Certifications
+
+* ✔ MERN Stack Internship — Edunet Foundation
+* ✔ GenAI Data Analytics — Tata Forage
+* 📘 Python Full Stack — Dhee Coding Lab
+
+---
+
+## 🤝 Soft Skills
+
+* 💬 Communication
+* 🤝 Teamwork
+* ⚡ Adaptability
+* 🧠 Decision Making
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:bharathhubharath@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-00c6ff?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://github.com/bharathhu">
+<img src="https://img.shields.io/badge/GitHub-bharathhu-000?style=for-the-badge&logo=github">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+🔥 *“First, solve the problem. Then, write the code.”* 🔥
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=140&section=footer"/>
+
+</div>
+make profile picture circle shape
