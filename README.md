@@ -1,52 +1,45 @@
-# 👋 Hi, I'm Bharath H U
-
+<!-- 🔥 DYNAMIC HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Bharath%20H%20U&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=250&section=header&text=Bharath%20H%20U&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Python+%7C+Java+Developer;MERN+Stack+Engineer;Building+Real+World+Projects;Open+to+Opportunities" />
-
-<img src="https://komarev.com/ghpvc/?username=bharathhu&label=Profile%20Views&color=00c6ff&style=flat" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Python+%7C+Java+Engineer;MERN+Stack+Developer;Building+Scalable+Web+Apps;Open+to+Opportunities" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
-
+<!-- 👤 PROFILE + ABOUT -->
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/84e145e2-a867-4412-b5a7-e1121a64fdfb" width="200"
-style="border-radius:50%; border:5px solid #00c6ff; box-shadow:0 0 25px #00c6ff,0 0 60px #0072ff;" />
+<img src="https://github.com/BharathHU.png" width="180" />
 
 </div>
 
-<div align="center">
+<h2 align="center">👨‍💻 About Me</h2>
 
-✨ Passionate Full Stack Developer building scalable web applications ✨
-
-</div>
-
-* 🎓 B.E. Information Science & Engineering (2026)
-* 📊 CGPA: **7.9**
-* 💻 Python | Java | MERN Stack
-* ⚙ Backend: Node.js, Express.js
-* 🌐 Frontend: HTML, CSS, JavaScript
-* 🚀 Love solving real-world problems
+<p align="center">
+✨ Passionate Full Stack Developer focused on building scalable and real-world applications <br>
+🎓 B.E. Information Science & Engineering (2026) • CGPA: <b>7.9</b><br>
+💻 Skilled in Python, Java & MERN Stack <br>
+🚀 Always learning, building, and improving
+</p>
 
 ---
 
-## 🛠️ Tech Arsenal
+<!-- ⚡ TECH STACK -->
+<h2 align="center">⚡ Tech Stack</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,nodejs,express,react,mongodb,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,nodejs,express,react,mongodb,mysql,git,github,vscode&perline=6" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+<!-- 🚀 PROJECTS -->
+<h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
 
@@ -57,12 +50,7 @@ style="border-radius:50%; border:5px solid #00c6ff; box-shadow:0 0 25px #00c6ff,
 <h3 align="center">🎯 Domain Expert Discovery</h3>
 
 <p align="center">
-Automated platform for expert identification using intelligent data pipelines.
-</p>
-
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/Live-Demo-00c6ff?style=for-the-badge"></a>
-<a href="#"><img src="https://img.shields.io/badge/Code-GitHub-000?style=for-the-badge&logo=github"></a>
+Automated expert identification system using data pipelines & smart search.
 </p>
 
 </td>
@@ -72,12 +60,7 @@ Automated platform for expert identification using intelligent data pipelines.
 <h3 align="center">🎵 Spotify Clone</h3>
 
 <p align="center">
-Full-stack MERN app with authentication, playlists & streaming.
-</p>
-
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/Live-Demo-00c6ff?style=for-the-badge"></a>
-<a href="#"><img src="https://img.shields.io/badge/Code-GitHub-000?style=for-the-badge&logo=github"></a>
+MERN app with authentication, playlists & music streaming.
 </p>
 
 </td>
@@ -88,31 +71,34 @@ Full-stack MERN app with authentication, playlists & streaming.
 
 ---
 
-## 📊 GitHub Analytics
+<!-- 📊 STATS -->
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bharathhu&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=BharathHU&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathhu&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=BharathHU&theme=tokyonight&hide_border=true" height="160"/>
 
-<img src="https://streak-stats.demolab.com?user=bharathhu&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharathHU&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+<!-- 📈 ACTIVITY GRAPH -->
+<h2 align="center">📈 Contribution Graph</h2>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bharathhu&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BharathHU&theme=tokyo-night&hide_border=true" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+<!-- 🐍 SNAKE -->
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
 
@@ -122,59 +108,63 @@ Full-stack MERN app with authentication, playlists & streaming.
 
 ---
 
-## 🏆 Achievements
+<!-- 🏆 TROPHIES -->
+<h2 align="center">🏆 Achievements</h2>
 
 <div align="center">
 
-<img src="<img src="https://github-profile-trophy.vercel.app/?username=BharathHU&theme=tokyonight&no-frame=true&row=1&column=6" />" />
+<img src="https://github-profile-trophy.vercel.app/?username=BharathHU&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
 ---
 
-## 📜 Certifications
+<!-- 📜 CERTIFICATIONS -->
+<h2 align="center">📜 Certifications</h2>
 
-* ✔ MERN Stack Internship — Edunet Foundation
-* ✔ GenAI Data Analytics — Tata Forage
-* 📘 Python Full Stack — Dhee Coding Lab
-
----
-
-## 🤝 Soft Skills
-
-* 💬 Communication
-* 🤝 Teamwork
-* ⚡ Adaptability
-* 🧠 Decision Making
+<p align="center">
+✔ MERN Stack Internship — Edunet Foundation <br>
+✔ GenAI Data Analytics — Tata Forage <br>
+📘 Python Full Stack — Dhee Coding Lab
+</p>
 
 ---
 
-## 🌐 Connect With Me
+<!-- 🤝 SOFT SKILLS -->
+<h2 align="center">🤝 Soft Skills</h2>
+
+<p align="center">
+💬 Communication • 🤝 Teamwork • ⚡ Adaptability • 🧠 Decision Making
+</p>
+
+---
+
+<!-- 🌐 CONTACT -->
+<h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
 
 <a href="mailto:bharathhubharath@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-00c6ff?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/bharathhu">
-<img src="https://img.shields.io/badge/GitHub-bharathhu-000?style=for-the-badge&logo=github">
+<a href="https://github.com/BharathHU">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
+<!-- 🔥 FOOTER -->
 <div align="center">
 
-🔥 *“First, solve the problem. Then, write the code.”* 🔥
+🔥 <b>"First, solve the problem. Then, write the code."</b> 🔥
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=150&section=footer"/>
 
 </div>
