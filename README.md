@@ -116,7 +116,7 @@ Full-stack MERN app with authentication, playlists & streaming.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/bharathhu/bharathhu/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/BharathHU/BharathHU/output/github-contribution-grid-snake.svg" />
 
 </div>
 
