@@ -21,7 +21,7 @@
 <p align="center">
 ✨ Passionate Full Stack Developer focused on building scalable and real-world applications <br>
 🎓 B.E. Information Science & Engineering (2026) • CGPA: <b>7.9</b><br>
-💻 Skilled in Python, Java & MERN Stack <br>
+💻 Skilled in Python,MERN Stack <br>
 🚀 Always learning, building, and improving
 </p>
 
