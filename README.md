@@ -47,9 +47,6 @@
 ---
 
 <h2 align="center">🐍 Contribution Activity</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BharathHU&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6&v=2" alt="GitHub Trophies" />
-</div>
   <br>
   <img src="https://raw.githubusercontent.com/BharathHU/BharathHU/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
@@ -57,10 +54,7 @@
 ---
 
 <h2 align="center">📊 GitHub Analytics</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BharathHU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharathHU&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-  <br><br>
+<br>
   <img src="https://streak-stats.demolab.com?user=BharathHU&theme=tokyonight&hide_border=true" width="95%" />
 </div>
 
