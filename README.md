@@ -45,21 +45,21 @@
 
 ---
 
+---
+
 <h2 align="center">🐍 Contribution Snake</h2>
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BharathHU/BharathHU/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BharathHU/BharathHU/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BharathHU/BharathHU/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/BharathHU/BharathHU/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
 
 <h2 align="center">🏆 Achievements</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BharathHU&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BharathHU&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
 </div>
+
+---
 
 ---
 
