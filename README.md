@@ -9,7 +9,7 @@
 <table align="center">
   <tr>
     <td align="center" width="30%">
-      <img src="https://github.com/BharathHU.png" width="150" style="border-radius: 50%;" />
+      <img src="https://github.com/BharathHU.png" width="150" style="border-radius: 50%; border: 3px solid #00c6ff;" />
     </td>
     <td width="70%">
       <h2 align="center">👨‍💻 About Me</h2>
@@ -46,12 +46,10 @@
 
 ---
 
-<h2 align="center">🏆 Achievements & Activity</h2>
+<h2 align="center">🐍 Contribution Activity</h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BharathHU&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
-</div>
-
-<div align="center">
+  <br>
   <img src="https://raw.githubusercontent.com/BharathHU/BharathHU/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
@@ -61,8 +59,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BharathHU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharathHU&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-  <br>
-  <img src="https://streak-stats.demolab.com?user=BharathHU&theme=tokyonight&hide_border=true" width="100%" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=BharathHU&theme=tokyonight&hide_border=true" width="95%" />
 </div>
 
 ---
@@ -88,7 +86,7 @@
 <div align="center">
 <a href="mailto:bharathhubharath@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/BharathHU"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/bharath-h-u-50b070248/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/bharath-h-u-658446313/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
 ---
