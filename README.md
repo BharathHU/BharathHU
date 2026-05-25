@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Bharath%20H%20U&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Python+Expert;MERN+Stack+Enthusiast;Building+Scalable+Apps" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Python+Expert;Building+Scalable+Apps" />
 </div>
 
 ---
@@ -15,7 +15,7 @@
       <h2 align="center">👨‍💻 About Me</h2>
       <p align="center">
         ✨ <b>Passionate Full Stack Developer</b> building real-world solutions <br>
-        🎓 <b>B.E. Information Science</b> (2026) • <b>CGPA: 7.9</b> <br>
+        🎓 <b>B.E. Information Science</b> (2026) • <b>CGPA: 8.0</b> <br>
         💻 Specialized in <b>Python</b> & <b>MERN Stack</b> <br>
         🚀 Driven by logic, fueled by caffeine
       </p>
