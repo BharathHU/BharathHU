@@ -1,92 +1,155 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Bharath%20H%20U&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<h2 align="center">🚀 About Me</h2>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Python+Expert;Building+Scalable+Apps" />
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=B.E.+Information+Science+Student;Python+Full+Stack+Developer;Django+%7C+React.js+%7C+REST+APIs;Building+Scalable+Web+Applications;Passionate+About+Problem+Solving;Future+Software+Engineer"/>
+
 </div>
 
----
-
 <table align="center">
-  <tr>
-    <td align="center" width="30%">
-      <img src="https://github.com/BharathHU.png" width="150" style="border-radius: 50%; border: 3px solid #00c6ff;" />
-    </td>
-    <td width="70%">
-      <h2 align="center">👨‍💻 About Me</h2>
-      <p align="center">
-        ✨ <b>Passionate Full Stack Developer</b> building real-world solutions <br>
-        🎓 <b>B.E. Information Science</b> (2026) • <b>CGPA: 8.0</b> <br>
-        💻 Specialized in <b>Python</b> & <b>MERN Stack</b> <br>
-        🚀 Driven by logic, fueled by caffeine
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="55%">
+
+### 👨‍💻 Developer Profile
+
+🎓 **B.E. Information Science & Engineering**
+
+🏫 **City Engineering College, Bengaluru**
+
+📅 **Graduation Year:** 2026
+
+📊 **CGPA:** 8.0
+
+💻 **Python Full Stack Developer**
+
+🚀 Building scalable and user-friendly applications
+
+🌱 Exploring Generative AI & Modern Web Technologies
+
+🎯 Aspiring Software Engineer
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+
+</td>
+</tr>
 </table>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">⚡ Tech Arsenal</h2>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,mongodb,express,nodejs,html,css,mysql,git,github,vscode&perline=7" />
+
+<img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,mysql,mongodb,git,github,vscode&perline=6"/>
+
 </div>
+
+---
+
+<h2 align="center">💼 Internship Journey</h2>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=36BCF7&center=true&width=700&lines=Python+Full+Stack+with+GenAI+Intern;Dhee+Coding+Lab;Worked+on+Django+React+REST+APIs+MySQL"/>
+
+</div>
+
+✔ Developed Full Stack Web Applications
+
+✔ Designed REST APIs
+
+✔ Built Authentication Systems
+
+✔ Implemented CRUD Operations
+
+✔ Worked with MySQL & Database Optimization
+
+✔ Git & GitHub Version Control
 
 ---
 
 <h2 align="center">🚀 Featured Projects</h2>
 
+<table align="center">
+
+<tr>
+
+<td width="50%">
+
+### 🎯 Domain Expert Discovery
+
+🛠 Python • MongoDB • JavaScript
+
+✨ Automated expert identification platform
+
+📈 Scalable data-processing pipelines
+
+🎯 Improved expert matching accuracy
+
+</td>
+
+<td width="50%">
+
+### 🎓 Student Database Management
+
+🛠 Django • SQLite • HTML • CSS
+
+✨ Complete CRUD Operations
+
+📊 Student Record Management
+
+🔒 Secure Form Handling
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<h2 align="center">🏆 Certifications</h2>
+
 <div align="center">
 
-| 🎯 Domain Expert Discovery | 🎵 Spotify Clone |
-| :--- | :--- |
-| ![Expert](https://img.shields.io/badge/Status-Live-green?style=flat-square) | ![Spotify](https://img.shields.io/badge/Status-Building-blue?style=flat-square) |
-| Automated expert identification system using data pipelines & smart search. | Full-featured music streaming app with User Auth & Playlists. |
-| `Python` `NLP` `API` | `React` `Node.js` `MongoDB` |
+<img src="https://img.shields.io/badge/Python%20Full%20Stack-Dhee%20Coding%20Lab-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/GenAI-Internship-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MERN-Edunet-orange?style=for-the-badge"/>
 
 </div>
 
 ---
 
-<h2 align="center">🐍 Contribution Activity</h2>
-  <br>
-  <img src="https://raw.githubusercontent.com/BharathHU/BharathHU/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+<h2 align="center">📈 Coding Activity</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BharathHU&theme=tokyo-night"/>
+
 </div>
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
-<br>
-  <img src="https://streak-stats.demolab.com?user=BharathHU&theme=tokyonight&hide_border=true" width="95%" />
+<h2 align="center">🔥 Current Focus</h2>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F7FF&center=true&width=700&lines=Advanced+React.js;Django+REST+Framework;Generative+AI;Full+Stack+Development;Data+Structures+%26+Algorithms"/>
+
 </div>
 
 ---
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <h3>📜 Certifications</h3>
-        <p>✅ <b>MERN Stack</b> • Edunet<br>✅ <b>GenAI</b> • Tata Forage<br>📘 <b>Python Full Stack</b></p>
-      </td>
-      <td width="50%" align="center">
-        <h3>🤝 Soft Skills</h3>
-        <p>💬 Communication<br>🤝 Teamwork<br>🧠 Decision Making</p>
-      </td>
-    </tr>
-  </table>
-</div>
 
----
+### 💡 Favorite Quote
 
-<h2 align="center">🌐 Let's Connect</h2>
-<div align="center">
-<a href="mailto:bharathhubharath@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/BharathHU"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/bharath-h-u-658446313/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
----
-
-<div align="center">
-🔥 <b>"First, solve the problem. Then, write the code."</b> 🔥
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=150&section=footer"/>
 </div>
