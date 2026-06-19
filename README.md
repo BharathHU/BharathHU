@@ -143,7 +143,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F7FF&center=true&width=700&lines=Advanced+React.js;Django+REST+Framework;Generative+AI;Full+Stack+Development;Data+Structures+%26+Algorithms"/>
 
 </div>
-## 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <div align="center">
 
