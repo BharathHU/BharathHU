@@ -6,13 +6,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Python+Full+Stack+Developer;Django+Developer;React.js+Developer;Future+Software+Engineer"/>
 
 </div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=B.E.+Information+Science+Student;Python+Full+Stack+Developer;Django+%7C+React.js+%7C+REST+APIs;Building+Scalable+Web+Applications;Passionate+About+Problem+Solving;Future+Software+Engineer"/>
-
-</div>
-
 <table align="center">
 <tr>
 <td width="55%">
