@@ -1,4 +1,5 @@
 <h2 align="center">🚀 About Me</h2>
+<h1 align='center'>Bharath H U</h1>
 
 <div align="center">
 
